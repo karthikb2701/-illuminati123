@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { FaInstagram, FaLinkedinIn, FaFacebookF } from "react-icons/fa";
 import Image from "next/image";
+0;
 
 export default function Footer() {
   return (
@@ -25,7 +26,7 @@ export default function Footer() {
           {/* Social Media */}
           <div className="flex space-x-4">
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/illuminati.563?igsh=MTd5bjEwbHVrNXdo"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full border border-white/20 hover:bg-[#F59E0B] hover:text-black transition"
