@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 
 const slides = [
   {
-    img: "/images/hero11.jpeg",
+    img: "/images/lost.jpg",
     title: "Building Excellence That Lasts",
     desc: "Architectural, structural & decorative construction solutions",
   },
