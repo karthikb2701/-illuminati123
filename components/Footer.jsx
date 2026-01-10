@@ -105,7 +105,7 @@ export default function Footer() {
                 href="tel:+919892352223"
                 className="hover:underline hover:text-red-400 transition"
               >
-                +91 98923 52223 (Rajdev Jaiswal)
+                +91 81602 77591 (Rajdev Jaiswal)
               </a>
             </li>
             <li>
