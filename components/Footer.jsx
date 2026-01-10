@@ -121,10 +121,10 @@ export default function Footer() {
             <li>
               ✉️{" "}
               <a
-                href="mailto:info@illuminaticonstruction.com"
+                href="mailto:chetan@illuminati.net.in"
                 className="hover:underline hover:text-red-400 transition"
               >
-                info@illuminaticonstruction.com
+                info@chetan@illuminati.net.in
               </a>
             </li>
           </ul>
