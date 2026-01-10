@@ -124,7 +124,7 @@ export default function Footer() {
                 href="mailto:chetan@illuminati.net.in"
                 className="hover:underline hover:text-red-400 transition"
               >
-                info@chetan@illuminati.net.in
+                @chetan@illuminati.net.in
               </a>
             </li>
           </ul>
