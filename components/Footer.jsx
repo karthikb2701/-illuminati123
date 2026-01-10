@@ -98,8 +98,26 @@ export default function Footer() {
           <h4 className="text-white font-semibold mb-4">Contact</h4>
           <ul className="space-y-2 text-sm">
             <li>📍 India</li>
-            <li>📞 +91 XXXXXXXXXX</li>
-            <li>✉️ info@illuminaticonstruction.com</li>
+
+            <li>
+              📞{" "}
+              <a
+                href="tel:+917400077563"
+                className="hover:underline hover:text-red-400 transition"
+              >
+                +91 74000 77563
+              </a>
+            </li>
+
+            <li>
+              ✉️{" "}
+              <a
+                href="mailto:info@illuminaticonstruction.com"
+                className="hover:underline hover:text-red-400 transition"
+              >
+                info@illuminaticonstruction.com
+              </a>
+            </li>
           </ul>
         </div>
       </div>

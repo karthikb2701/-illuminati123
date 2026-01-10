@@ -10,7 +10,7 @@ const highlights = [
   {
     title: "Quality & Safety",
     desc: "Strict quality control and safety practices.",
-    img: "/images/hero12.jpeg",
+    img: "/images/safety.png",
   },
   {
     title: "Timely Delivery",
