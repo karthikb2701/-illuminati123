@@ -102,10 +102,19 @@ export default function Footer() {
             <li>
               📞{" "}
               <a
+                href="tel:+919892352223"
+                className="hover:underline hover:text-red-400 transition"
+              >
+                +91 98923 52223 (Rajdev Jaiswal)
+              </a>
+            </li>
+            <li>
+              📞{" "}
+              <a
                 href="tel:+917400077563"
                 className="hover:underline hover:text-red-400 transition"
               >
-                +91 74000 77563
+                +91 74000 77563 (Chetan Jaiswal)
               </a>
             </li>
 
