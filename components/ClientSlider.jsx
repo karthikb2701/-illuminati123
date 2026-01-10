@@ -4,8 +4,6 @@ import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 
 const clients = [
-  { name: "Reliance Jio", logo: "/images/clients/jio.png" },
-  { name: "Tata Group", logo: "/images/clients/tata.png" },
   { name: "Patanjali", logo: "/images/clients/patanjali.png" },
   { name: "Reliance", logo: "/images/clients/reliance.png" },
 ];
